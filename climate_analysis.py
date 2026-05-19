@@ -1,3 +1,6 @@
+"""
+This is some pythonic ting tings
+"""
 import sys
 import temp_conversion
 import signal
